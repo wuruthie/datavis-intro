@@ -1,6 +1,6 @@
 # Gitting to know you
 Fill in the text below with your own answers to each question. Each person in your mini-lab group should submit their answers in a separate commit. Make sure it is clear who has written each response. Please add your answers after the `>` character so your answers will appear as quotes in the rendered markdown.
-
+ 
 ## About You
 What are your names, as they appear on the class roster?
 > Ruth Wu && Jinlin He
